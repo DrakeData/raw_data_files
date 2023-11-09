@@ -1,0 +1,51 @@
+track id,track name,track duration,track release,artist name,genre,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time signature
+0woKDRMZzsFWeHppNQnGlS,Golden,00:02:50,2023-04-19,Barns Courtney,Rock,60,0.586,0.81,6,-7.287,0,0.0484,0.00275,2.95e-05,0.145,0.646,105.015,4
+3EEr6l5PYelwkrvvKX7N0X,Shut Up Kiss Me,00:03:22,2016-09-02,Angel Olsen,Indie / Alternative,58,0.375,0.63,7,-5.131,1,0.0453,0.0552,0.0,0.107,0.349,115.728,4
+1rZsn9K890Goymfl7YIdgY,Mermaids,00:04:35,2023-04-21,Florence + The Machine,Pop,62,0.29,0.544,9,-9.192,0,0.0419,0.481,0.0032,0.125,0.0803,117.01,4
+2DuhJLdMNSskrd2KF8SRMr,Sad Disco (Pine Studios),00:03:47,2023-02-14,flipturn,Indie / Alternative,46,0.805,0.569,6,-9.346,0,0.028,0.499,0.723,0.0977,0.758,121.03,4
+3O8ZnG96gpHULyJyZ5dASk,Gold,00:03:57,2023-02-10,Ivan & Alyosha,Pop,26,0.62,0.72,11,-6.556,1,0.0373,0.0447,0.000448,0.256,0.528,117.938,4
+4XiypEn8iKbeP1TbTqdfk5,Anti-Hero - Roosevelt Remix,00:04:59,2022-11-11,Taylor Swift,Pop,49,0.716,0.737,4,-6.763,1,0.0343,0.322,0.000264,0.152,0.804,110.99,4
+39cc405lc5WqDnCvmUrP52,Mermaids,00:04:35,2023-04-21,Florence + The Machine,Pop,58,0.414,0.537,9,-9.21,0,0.0368,0.434,0.00441,0.127,0.119,117.038,4
+5kHMfzgLZP95O9NBy0ku4v,I Can See You (Taylor’s Version) (From The Vault),00:04:33,2023-07-07,Taylor Swift,Pop,92,0.694,0.764,6,-4.893,1,0.0337,0.0586,0.0,0.0608,0.819,123.044,4
+214nt20w5wOxJnY462klLw,Miss Americana & The Heartbreak Prince,00:03:54,2019-08-23,Taylor Swift,Pop,85,0.662,0.747,11,-6.926,0,0.0736,0.028,0.00615,0.138,0.487,150.088,4
+5JeZZtqY0loM9UHQVIChby,Some things Cosmic,00:02:54,2011-04-11,Angel Olsen,Indie / Alternative,55,0.214,0.182,8,-13.538,1,0.0368,0.919,0.00465,0.113,0.104,143.171,4
+3HjyXmT0PyqVFGHR97VnKu,Spring,00:03:23,2019-10-04,Angel Olsen,Indie / Alternative,54,0.52,0.37,2,-8.865,1,0.027,0.0169,0.0598,0.123,0.133,150.115,4
+5IyRSZy0R7UdweNISjf5qS,Nothing's Free,00:04:38,2023-03-07,Angel Olsen,Indie / Alternative,42,0.458,0.372,6,-9.31,1,0.0344,0.536,0.2,0.529,0.135,109.649,3
+40gk32E7YaTFoQwDIWv2SY,Christmas Kids,00:02:15,2010-03-14,Roar,Indie / Alternative,84,0.425,0.754,2,-6.028,1,0.0367,0.0104,0.112,0.438,0.558,152.092,4
+1kZpYFQHUKv4xHELaaUSqP,Like I Used To,00:04:23,2021-05-21,Sharon Van Etten,Pop,52,0.532,0.719,4,-5.16,1,0.0365,0.119,0.000577,0.373,0.517,110.949,4
+2NE61HPxiQyPbNhggQqrzG,Unfucktheworld,00:02:05,2014-11-18,Angel Olsen,Indie / Alternative,55,0.546,0.128,0,-13.162,1,0.0393,0.943,0.0225,0.0987,0.326,119.037,4
+44n97yHySt0Z9rqPaXgjCK,Sorry,00:03:40,2017-06-02,Halsey,Pop,73,0.513,0.25,5,-9.376,0,0.0367,0.913,0.0,0.117,0.351,74.103,4
+7xQg5QTx8eiQnsxEnfynPh,I Lied (with Allison Ponthier),00:03:54,2021-05-21,Lord Huron,Folk,63,0.44,0.269,5,-10.769,1,0.0262,0.914,0.261,0.132,0.138,103.877,3
+3T0M3nCkp5WKHQsjoBs8Ih,So Long,00:02:23,2022-09-16,Danielle Ponder,No Genre Data,51,0.584,0.6,1,-6.646,0,0.0625,0.105,0.0387,0.0942,0.529,147.05,4
+2Te14aSrBgFj1CE2sBBVMX,Alone,00:03:25,2017-06-02,Halsey,Pop,58,0.602,0.724,2,-3.469,0,0.0352,0.0184,0.0,0.606,0.451,100.064,4
+3HFvMIvCBNGkypFCQUHjyV,Supernatural,00:02:47,2022-09-09,Barns Courtney,Rock,64,0.579,0.846,0,-3.929,0,0.0329,0.0265,0.0,0.0418,0.612,98.019,4
+6mxQumGBeHnuG3vrtMaRVl,Sad Disco,00:03:47,2023-02-14,flipturn,Indie / Alternative,26,0.722,0.418,9,-8.274,1,0.0319,0.00461,0.76,0.127,0.134,123.028,4
+4y5bvROuBDPr5fuwXbIBZR,Paper Rings,00:03:42,2019-08-23,Taylor Swift,Pop,87,0.811,0.719,9,-6.553,1,0.0497,0.0129,1.36e-05,0.0742,0.865,103.979,4
+6Tv21RLLA1Dt6OtPNz8QDq,All The Good Times,00:04:36,2022-06-03,Angel Olsen,Indie / Alternative,55,0.595,0.47,4,-8.722,1,0.0261,0.368,0.00136,0.0947,0.318,81.008,4
+6IbCvfmmICEEAyDwQ9zcbt,I Don't Wanna Talk (I Just Wanna Dance),00:03:15,2021-09-09,Glass Animals,Pop,65,0.703,0.624,7,-6.228,1,0.0364,0.0156,5.53e-05,0.299,0.808,131.966,4
+7exHT4swWOKL5addPeqkLP,THE LONELIEST,00:04:07,2023-01-20,Måneskin,Rock,75,0.525,0.599,2,-5.001,1,0.0281,0.00151,0.0,0.0762,0.226,129.841,4
+0sfrbCvmUUfJgZlKqXQbQ6,The Walk Home,00:03:16,2022-11-16,Young the Giant,Indie / Alternative,60,0.515,0.899,7,-6.404,1,0.0493,0.0062,1.18e-05,0.49,0.31,124.993,4
+1UqhkbzB1kuFwt2iy4h29Q,Cough Syrup,00:04:09,2011,Young the Giant,Indie / Alternative,73,0.534,0.721,11,-7.307,0,0.0417,0.0343,6.24e-06,0.115,0.225,128.978,3
+4e3ZNTAV6PCrdYMUrUlMpQ,Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),00:04:26,2023-07-07,Taylor Swift,Pop,85,0.547,0.855,7,-4.7,1,0.0597,0.0164,0.0,0.144,0.282,131.073,4
+2OGXIpzLiNf1aKvoEjnNRR,Forever Means,00:03:27,2023-04-11,Angel Olsen,Indie / Alternative,39,0.352,0.14,7,-11.234,1,0.0351,0.873,0.0,0.115,0.151,73.131,5
+57pvzrlnUEE2rjspp9G4H9,Christmas Eve,00:02:53,2022-11-25,Rhys Lewis,Pop,2,0.583,0.869,3,-5.867,1,0.0489,0.37,2.87e-06,0.18,0.838,147.896,4
+5cZ0q2VQzkP0DRuNeyJzB4,Time Bandits,00:03:54,2023-04-14,Angel Olsen,Indie / Alternative,32,0.552,0.345,7,-8.555,1,0.0252,0.663,3.48e-05,0.117,0.179,72.268,4
+5S4aYQAJOwJMAamANWlICO,exile (feat. Bon Iver),00:04:45,2020-08-18,Taylor Swift,Pop,74,0.31,0.374,6,-8.464,1,0.0275,0.761,2.46e-05,0.11,0.16,75.938,4
+3PAflYZhStEXU0FY6yN98z,Little Bit,00:04:19,2020-10-09,Karate Boogaloo,Indie / Alternative,48,0.685,0.464,5,-10.622,0,0.0341,0.359,0.0669,0.123,0.895,106.348,4
+6YArGkJUr82ehzRFa2YaRK,Wake Me,00:02:43,2014-07-14,Bleachers,Pop,60,0.818,0.374,1,-10.666,0,0.0459,0.0951,0.0139,0.217,0.457,117.956,4
+1BxfuPKGuaTgP7aM0Bbdwr,Cruel Summer,00:02:58,2019-08-23,Taylor Swift,Pop,99,0.552,0.702,9,-5.707,1,0.157,0.117,2.06e-05,0.105,0.564,169.994,4
+4w2tfK0JA8KrVegKnxukf4,The Kids Are Alright,00:03:55,2019-09-06,Barns Courtney,Rock,35,0.547,0.771,3,-4.722,1,0.0284,0.0266,1.09e-06,0.0819,0.674,122.036,4
+5zqdoQXjMmqb1GyzTKa4E9,Love From The Other Side,00:04:39,2023-03-24,Fall Out Boy,emo,63,0.418,0.895,4,-5.626,0,0.0966,0.000965,0.000475,0.302,0.218,157.803,4
+6L3VWDPDTQkQFkqvmpAUMU,Something to Believe In,00:03:48,2016-08-12,Young the Giant,Indie / Alternative,61,0.623,0.886,1,-3.044,1,0.0404,0.0245,0.0,0.247,0.709,92.021,4
+31ABtQJdfloNaGz7ZhXaN5,King,00:04:40,2022-05-13,Florence + The Machine,Pop,64,0.731,0.45,6,-8.086,0,0.0443,0.136,0.000989,0.107,0.0856,105.989,4
+2V6T1pQX1hqp0ja2hk7DZk,Some Of Us Are Brave,00:03:53,2022-09-16,Danielle Ponder,No Genre Data,45,0.501,0.445,9,-9.464,0,0.0519,0.802,0.0206,0.0597,0.254,155.838,4
+13dVSpQS1CfBs0DdlKuRVA,Never Say No,00:04:22,2022-10-27,Friday Pilots Club,Rock,27,0.443,0.357,2,-8.391,1,0.0326,0.0973,0.00129,0.0769,0.152,90.004,4
+3xMQOd1C3TXsjQ3pmzOmkC,Weight of Love,00:06:50,2014-05-09,The Black Keys,Rock,61,0.282,0.547,2,-8.621,1,0.0322,0.03,0.888,0.104,0.133,151.468,4
+4JaLWmdTChliUG88ks6Prm,New Love Cassette,00:03:26,2019-10-04,Angel Olsen,Indie / Alternative,46,0.62,0.471,9,-9.831,1,0.0291,0.152,0.877,0.079,0.581,79.017,3
+5FW6ODJAE39dFriqIi2ZwZ,Morning Elvis,00:04:22,2023-04-21,Florence + The Machine,Pop,47,0.475,0.341,7,-7.829,1,0.0311,0.846,1.14e-06,0.111,0.235,80.514,4
+3q5Zm5NnYcpXKLNmTO1tyo,Astronaut,00:03:44,2017-06-30,Sir Sly,Indie / Alternative,55,0.63,0.589,7,-8.11,1,0.0275,0.0752,0.552,0.32,0.314,112.013,4
+1K2Hql13Y6fcOSy2Y15qNm,Big Time,00:04:07,2022-06-03,Angel Olsen,Indie / Alternative,47,0.292,0.521,10,-5.309,1,0.0363,0.166,0.00124,0.0959,0.306,203.727,3
+14NNdJ03Vt6QfrY99FpmE5,Hard To Be Alone,00:03:02,2020-07-10,Barns Courtney,Rock,43,0.414,0.476,3,-6.52,1,0.0302,0.91,0.0,0.0863,0.24,94.087,4
+3sW3oSbzsfecv9XoUdGs7h,Enchanted (Taylor's Version),00:05:53,2023-07-07,Taylor Swift,Pop,90,0.505,0.532,8,-3.526,1,0.0265,0.012,0.0,0.149,0.216,81.907,4
+4pfrrhvplbJZAIsfosGWQP,the 1,00:03:30,2020-08-18,Taylor Swift,Pop,75,0.78,0.361,0,-6.942,1,0.048,0.75,7.14e-06,0.108,0.163,139.902,4
+6St9uiBUG4L7LvVNuUcm8a,Roll The Credits,00:04:13,2023-05-05,Danielle Ponder,No Genre Data,46,0.522,0.702,6,-4.744,0,0.0423,0.00147,0.0226,0.154,0.262,150.255,4
